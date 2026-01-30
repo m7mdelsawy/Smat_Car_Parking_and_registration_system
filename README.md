@@ -147,7 +147,7 @@ The system will:
 
 ## 👨‍💻 Author
 
-**Omar Mahrous**
+**Mohamed Elsawy**
 AI Engineering Student – Mansoura University
 
 ---
